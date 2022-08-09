@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Emmanuel Otiti
-- 👀 I’m interested in Machine Learning  Natural Language Processing Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Analysis/Science
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on Data Science and Data Analyst projects
+- 📫 How to reach me fammava@gmail.com
 
 <!---
 Emmanuel Otiti/fammava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
